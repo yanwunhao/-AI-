@@ -32,4 +32,4 @@
 ## 位置エンコーディング関数を実装するの解答
 
 出力結果：
-![出力結果]()
+![出力結果](https://github.com/yanwunhao/Trip7_G_AI_Coursework/blob/main/Chapter_3/answer/position_embedding.png)
