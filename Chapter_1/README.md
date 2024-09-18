@@ -14,7 +14,9 @@ n-gramモデルの主な特徴：
 応用問題：以下のテキストコーパスが与えられています：
 
 "The cat sat on the mat. The dog chased the cat. The mat was soft and warm. The cat and dog played on the soft mat."
+
 以下の質問に答えてください：
+
 a) このコーパスのトライグラム（3-gram）頻度表を作成してください。上位5つのトライグラムのみを示してください。
 b) バイグラムモデルを使用して、文 "The cat sat on the soft" の確率を計算してください。（ヒント：ラプラススムージングを使用し、ボキャブラリーサイズを考慮してください）
 c) "The cat and dog" の後に最も来る可能性が高い単語は、トライグラムモデルによるとどれですか？その理由も説明してください。
