@@ -1,4 +1,4 @@
-## 課題一：PydanticOutputParser の実装
+## 課題：PydanticOutputParser の実装
 
 以下の Pydantic モデルが与えられています：
 
