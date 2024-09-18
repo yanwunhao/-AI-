@@ -34,8 +34,7 @@ GPT（Generative Pre-trained Transformer）モデルは、自然言語処理の�
 ### 指示：
 以下に提供するGPT-1、GPT-2、GPT-3の論文を主要な情報源として使用してください。必要に応じて、追加の信頼できる資料（学術論文、技術ブログ、公式ドキュメントなど）も調査してください。
 調査結果に基づいて、以下の表を埋めてください。
-各項目について、可能な限り具体的な数値や説明を記入してください。不明な点がある場合は、その旨を記載してください。
-使用した全ての情報源を記録し、表の下に参考文献として記載してください。
+各項目について、可能な限り具体的な数値や説明を記入してください。
 
 ### GPTモデルの主要論文：
 GPT-1: "Improving Language Understanding by Generative Pre-Training"
@@ -46,3 +45,18 @@ https://cdn.openai.com/better-language-models/language_models_are_unsupervised_m
 
 GPT-3: "Language Models are Few-Shot Learners"
 https://arxiv.org/abs/2005.14165
+
+比較表：
+
+| 特徴 | GPT-1 | GPT-2 | GPT-3 |
+|------|-------|-------|-------|
+| 発表年 |  |  |  |
+| モデルサイズ（パラメータ数） |  |  |  |
+| 学習データ量 |  |  |  |
+| タスク適応性 |  |  |  |
+| 主な改善点 |  |  |  |
+| 典型的な応用例 |  |  |  |
+| 言語カバレッジ |  |  |  |
+| コンテキストウィンドウサイズ |  |  |  |
+| トレーニング方法の特徴 |  |  |  |
+| 主な技術的革新 |  |  |  |
