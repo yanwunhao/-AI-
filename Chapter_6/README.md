@@ -19,12 +19,12 @@ Sequential チェーンの使用方法：
 
 1. 必要なモジュールをインポートします：
 
-   ```
-   from langchain.chains import SequentialChain
-   from langchain.chains import LLMChain
-   from langchain.prompts import PromptTemplate
-   from langchain.llms import OpenAI
-   ```
+```
+from langchain.chains import SequentialChain
+from langchain.chains import LLMChain
+from langchain.prompts import PromptTemplate
+from langchain.llms import OpenAI
+```
 
 2. 各ステップのための LLMChain を作成します：
 
